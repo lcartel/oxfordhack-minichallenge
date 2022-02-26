@@ -1,0 +1,29 @@
+{
+  "name": "maps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "agentkeepalive": "^4.2.1",
+    "axios": "^0.26.0",
+    "crypto-js": "^4.1.1",
+    "debug": "^4.3.3",
+    "decode-uri-component": "^0.2.0",
+    "depd": "^1.1.2",
+    "filter-obj": "^1.1.0",
+    "follow-redirects": "^1.14.9",
+    "humanize-ms": "^1.2.1",
+    "ms": "^2.1.2",
+    "query-string": "^7.1.1",
+    "retry-axios": "^2.6.0",
+    "split-on-first": "^1.1.0",
+    "strict-uri-encode": "^2.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
