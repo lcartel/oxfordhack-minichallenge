@@ -29,8 +29,8 @@ url : https://googleapibackend.azurewebsites.net/api/GetGoogleJson
 input param : {"username": Mickael Jordan}
 
 **Run the application** :
-- cd app 
-- python3 processor.py ./training_sets/mini_training_set.json
+- $> cd app 
+- $> python3 processor.py ./training_sets/mini_training_set.json
 
 
 ## Your details
