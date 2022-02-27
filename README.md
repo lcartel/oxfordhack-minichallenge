@@ -15,12 +15,15 @@ Fork this repostory and fill out your details below:
 - /GetMapsJson : Google Maps API
 
 **URL of the APIs** : 
+
 *Google Map Api* : 
+
 url : https://googleapibackend.azurewebsites.net/api/GetMapsJson
 
 input param : {"place_name": "32 jump street"}
 
 *Google Search Api* : 
+
 url : https://googleapibackend.azurewebsites.net/api/GetGoogleJson
 
 input param : {"username": Mickael Jordan}
